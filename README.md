@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frankejacobos.
-- 👀 I’m interested in backend development.
+- 👀 I’m interested in web application development.
 - 🌱 I’m currently learning NodeJS and Unit testing.
 - 💞️ I’ll hack the NASA.
 
