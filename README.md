@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @frankejacobos.
+- 👋 Hi, I’m Frank Jacobo and I'll hack the NASA.
 - 👀 I’m interested in web application development.
 - 🌱 I’m currently learning NodeJS and Unit testing.
-- 💞️ I’ll hack the NASA.
 
 <!---
 frankejacobos/frankejacobos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
