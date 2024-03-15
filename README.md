@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Frank Jacobo and I'll hack the NASA.
-- 👀 I’m interested in web application development.
-- 🌱 I’m currently learning NodeJS and Unit testing.
+Hi, I'm Frank Jacobo, a Frontend Developer in Vue and TS.
 
 <!---
 frankejacobos/frankejacobos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
